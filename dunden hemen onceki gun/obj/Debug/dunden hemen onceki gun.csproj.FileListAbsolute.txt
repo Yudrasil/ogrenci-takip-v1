@@ -1,0 +1,25 @@
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.exe.config
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.exe
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.pdb
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.csprojResolveAssemblyReference.cache
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.Properties.Resources.resources
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.csproj.GenerateResource.Cache
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.exe
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.pdb
+c:\users\cengu\documents\visual studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.Form1.resources
+C:\Users\Cengu\Documents\Visual Studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.DersDurumu.resources
+C:\Users\Cengu\Documents\Visual Studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.GenelDurum.resources
+C:\Users\Cengu\Documents\Visual Studio 2012\Projects\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.OgrenciNotBilgileri.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.exe.config
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.exe
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\bin\Debug\dunden hemen onceki gun.pdb
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.csproj.AssemblyReference.cache
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.DersDurumu.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.Form1.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.GenelDurum.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.OgrenciNotBilgileri.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden_hemen_onceki_gun.Properties.Resources.resources
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.csproj.GenerateResource.cache
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.csproj.CoreCompileInputs.cache
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.exe
+E:\YEDEK\BEN\vs 2012 projeler\dunden hemen onceki gun\dunden hemen onceki gun\obj\Debug\dunden hemen onceki gun.pdb
